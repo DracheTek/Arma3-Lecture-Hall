@@ -362,41 +362,41 @@ Tool, Kit,        51K                         Provides necessary
 
 
 PAR			GR			MOSLN			SDTER			ASIS			REMARKS			ABBREVIATION			BOIP			PP			LV1			LV2			LV3			LVB			LVC
-01			O3			21B00			AAA						11			COMMANDER						                    2			1			1			1			0			1
-01			O2			21B00			KHU									COMPANY CONST OFFICER						        2			1			1			1			0			1
-01			O2			21B00			KHU						12			COMPANY CONST OFFICER			I028AA			    2			1			1			1			0			1
-01			O2			21B00			KHU									COMPANY CONST OFFICER			I028AA			    2			-1			-1			-1			0			-1
-01			E3			31C1O			CRX						05			RADIO OPR-MAINTAINER						        2			1			0			0			0			0
-01			E4			31C1O			CRX									RADIO OPR-MAINTAINER						        2			1			1			1			0			0
-01			E3			31C1O			CRX						05			RADIO OPR-MAINTAINER			C054AB			    2			-1			0			0			0			0
-01			E4			31C1O			CRX									RADIO OPR-MAINTAINER			C054AB			    2			-1			-1			-1			0			0
-01			E5			31C2O			CRY									SENIOR RADIO OPR-MNT						        2			1			1			1			0			0
-01			E5			31C2O			CRY									SENIOR RADIO OPR-MNT			C054AB			    2			-1			-1			-1			0			0
-01			E3			51B1O			AAV						04			VEHICLE DRVIER						                2			1			1			1			0			0
-01			E7			51H4O			KCD									CONST OPS SGT						                2			1			1			1			0			1
-01			E8			51Z5M			AAE						10			FIRST SERGEANT						                2			1			1			1			0			1
-01			E8			51Z5M			AAE						10 12			FIRST SERGEANT			    I028AA			2			1			1			1			0			1
-01			E8			51Z5M			AAE						10			FIRST SERGEANT			        I028AA			2			-1			-1			-1			0			-1
+01			O3			21B00			AAA						11			连长						                    2			1			1			1			0			1
+01			O2			21B00			KHU									连建造主官						        2			1			1			1			0			1
+01			O2			21B00			KHU						12			连建造主官			I028AA			    2			1			1			1			0			1
+01			O2			21B00			KHU									连建造主官			I028AA			    2			-1			-1			-1			0			-1
+01			E3			31C1O			CRX						05			无线电员						        2			1			0			0			0			0
+01			E4			31C1O			CRX									无线电员						        2			1			1			1			0			0
+01			E3			31C1O			CRX						05			无线电员			C054AB			    2			-1			0			0			0			0
+01			E4			31C1O			CRX									无线电员			C054AB			    2			-1			-1			-1			0			0
+01			E5			31C2O			CRY									资深无线电员						        2			1			1			1			0			0
+01			E5			31C2O			CRY									资深无线电员			C054AB			    2			-1			-1			-1			0			0
+01			E3			51B1O			AAV						04			驾驶员						                2			1			1			1			0			0
+01			E7			51H4O			KCD									建造军士长						                2			1			1			1			0			1
+01			E8			51Z5M			AAE						10			第一军士长						                2			1			1			1			0			1
+01			E8			51Z5M			AAE						10 12			第一军士长			    I028AA			2			1			1			1			0			1
+01			E8			51Z5M			AAE						10			第一军士长			        I028AA			2			-1			-1			-1			0			-1
 01			E5			54B2O			GAM						01 04			NBC NCO						                2			1			1			1			0			1
 01			E4			92Y1O			QAP									ARMORER						                    2			1			1			1			0			0
-01			E6			92Y3O			QHL									SUPPLY SGT						                2			1			1			1			0			1
+01			E6			92Y3O			QHL									军需军士长						                2			1			1			1			0			1
 01						A32355			B									ALARM CML AGENT AUTO						    2			1			1			1			0			0
 01						A32355			B									ALARM CML AGENT AUTO			G019AA			2			-1			-1			-1			0			0
 01						A33020			B									ALARM CHE AG AUTO M22			G019AA			2			1			1			1			0			0
-01						A72260			A									ANTENNA RC-292						            2			1			1			1			0			0
-01						A72260			A									ANTENNA RC-292			C005AA			        2			-1			-1			-1			0			0
-01						A79381			A									ANTENNA GP OE-254/GRC			C005AA			2			1			1			1			0			0
-01						B07126			B									AXLE CABLE REEL RL-27						    2			1			1			1			0			0
+01						A72260			A									天线 RC-292						            2			1			1			1			0			0
+01						A72260			A									天线 RC-292			C005AA			        2			-1			-1			-1			0			0
+01						A79381			A									天线 GP OE-254/GRC			C005AA			2			1			1			1			0			0
+01						B07126			B									线轴 RL-27						    2			1			1			1			0			0
 01						B49004			B									刺刀 MULTI SYS M9			I021AA			2			141			127			111			0			0
 01						B49272			B									刺刀座 5.56 步枪						    2			144			129			113			0			0
 01						B49272			B									刺刀座 5.56 步枪			C054AB			2			-3			-2			-2			0			0
 01						B49272			B									刺刀座 5.56 步枪			I021AA			2			-141			-127			-111			0			0
-01						B60351			B									BORESIGHTING EQ WEAPON			I086AA			2			1			1			1			0			0
+01						B60351			B									校枪器			I086AA			2			1			1			1			0			0
 01						B67766			B									BINOCULAR MOD RET 7X50						    2			1			1			1			0			0
-01						B68790			B						800			BIPOD 步枪 5.56MM M3						    2			16			16			16			0			0
-01						B68790			B						800			BIPOD 步枪 5.56MM M3			I014AA			2			-16			-16			-16			0			0
+01						B68790			B						800			两脚架 步枪 5.56MM M3						    2			16			16			16			0			0
+01						B68790			B						800			两脚架 步枪 5.56MM M3			I014AA			2			-16			-16			-16			0			0
 01						C05541			A									CNTL RCVR TRAN C-11561						    2			2			2			2			0			0
-01						C05701			B									CHEMICAL AG MONITOR			G014AA			    2			2			2			2			0			0
+01						C05701			B									化学监测仪			G014AA			    2			2			2			2			0			0
 01						C18514			A									COMPUTER SET: DIGITAL			Q075AA			2			1			1			1			0			0
 01						C62375			A									BATTERY CASE Z-AIJ-E1			C130AA			2			1			1			1			0			0
 01						C68719			B									CA TEL WD-1/TT DR-8						        2			10			10			10			0			0
@@ -632,10 +632,10 @@ PAR			GR			MOSLN			SDTER			ASIS			REMARKS			ABBREVIATION			BOIP			PP			LV1			LV2
 03						A32355			B									ALARM CML AGENT AUTO						2			1			1			1			0			0
 03						A32355			B									ALARM CML AGENT AUTO			G019AA			2			-1			-1			-1			0			0
 03						A33020			B									ALARM CHE AG AUTO M22			G019AA			2			1			1			1			0			0
-03						A72260			A									ANTENNA RC-292						2			1			1			1			0			0
-03						A72260			A									ANTENNA RC-292			C005AA			2			-1			-1			-1			0			0
-03						A79381			A									ANTENNA GP OE-254/GRC			C005AA			2			1			1			1			0			0
-03						C05701			B									CHEMICAL AG MONITOR			G014AA			2			2			2			2			0			0
+03						A72260			A									天线 RC-292						2			1			1			1			0			0
+03						A72260			A									天线 RC-292			C005AA			2			-1			-1			-1			0			0
+03						A79381			A									天线 GP OE-254/GRC			C005AA			2			1			1			1			0			0
+03						C05701			B									化学监测仪			G014AA			2			2			2			2			0			0
 03						C68719			B									CA TEL WD-1/TT DR-8						2			3			3			3			0			0
 03						C89070			C									CAM SCRN WDLD RAD SCAT						2			10			10			10			0			0
 03						C89070			C									CAM SCRN WDLD RAD SCAT			T009AF			2			-2			-2			-2			0			0
@@ -747,7 +747,7 @@ PAR			GR			MOSLN			SDTER			ASIS			REMARKS			ABBREVIATION			BOIP			PP			LV1			LV2
 04						Z20150			A									CRANE WHL MTD HYD			K062AA			2			1			1			1			0			0
 04						Z39973			B									无线电: AN/VRC-88F			C216AC			2			1			1			1			0			0
 04						Z59863			B									NAVIGATION SET: GPS RE			C199AA			2			1			1			1			0			0
-05			E4			62E1O			AAV									VEHICLE DRVIER						2			1			1			1			0			0
+05			E4			62E1O			AAV									驾驶员						2			1			1			1			0			0
 05			E4			62E1O			AGH									HEAVY VEHICLE DRIVER						2			2			2			2			0			0
 05			E3			62E1O			KBV						01			CONST EQUIP OPR						2			1			1			1			0			0
 05			E4			62E1O			KBV									CONST EQUIP OPR						2			1			1			1			0			0
@@ -794,7 +794,7 @@ PAR			GR			MOSLN			SDTER			ASIS			REMARKS			ABBREVIATION			BOIP			PP			LV1			LV2
 05						Z36068			B									拖车 货运 2-1/2T LMTV			T046AB			2			1			1			1			0			0
 05						Z39973			B									无线电: AN/VRC-88F			C216AC			2			1			1			1			0			0
 05						Z59863			B									NAVIGATION SET: GPS RE			C199AA			2			1			1			1			0			0
-06			E4			62E1O			AAV									VEHICLE DRVIER						2			1			1			1			0			0
+06			E4			62E1O			AAV									驾驶员						2			1			1			1			0			0
 06			E3			62E1O			KBV						01 04			CONST EQUIP OPR						2			3			3			3			0			0
 06			E4			62E1O			KBV						02			CONST EQUIP OPR						2			5			5			5			0			0
 06			E5			62E2O			KBV									CONST EQUIP OPR						2			2			2			2			0			0
@@ -848,10 +848,10 @@ PAR			GR			MOSLN			SDTER			ASIS			REMARKS			ABBREVIATION			BOIP			PP			LV1			LV2
 07						A32355			B									ALARM CML AGENT AUTO						2			2			2			2			0			0
 07						A32355			B									ALARM CML AGENT AUTO			G019AA			2			-2			-2			-2			0			0
 07						A33020			B									ALARM CHE AG AUTO M22			G019AA			2			2			2			2			0			0
-07						A72260			A									ANTENNA RC-292						2			2			2			2			0			0
-07						A72260			A									ANTENNA RC-292			C005AA			2			-2			-2			-2			0			0
-07						A79381			A									ANTENNA GP OE-254/GRC			C005AA			2			2			2			2			0			0
-07						C05701			B									CHEMICAL AG MONITOR			G014AA			2			4			4			4			0			0
+07						A72260			A									天线 RC-292						2			2			2			2			0			0
+07						A72260			A									天线 RC-292			C005AA			2			-2			-2			-2			0			0
+07						A79381			A									天线 GP OE-254/GRC			C005AA			2			2			2			2			0			0
+07						C05701			B									化学监测仪			G014AA			2			4			4			4			0			0
 07						C68719			B									CA TEL WD-1/TT DR-8						2			8			8			8			0			0
 07						C89070			C									CAM SCRN WDLD RAD SCAT						2			24			24			24			0			0
 07						C89145			C									CAM SCRN WDLD RAD SCT						2			24			24			24			0			0
