@@ -1970,6 +1970,24 @@
         </outerBoundaryIs>
       </Polygon>
     </Placemark>
+    <Placemark>
+      <name>未命名矩形_1</name>
+      <visibility>1</visibility>
+      <Polygon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              120.634305200366,24.3566346150444,0
+              120.634305200366,24.0866346150444,290.9740404682
+              120.904305200366,24.0866346150444,840.5561350016
+              120.904305200366,24.3566346150444,840.5561350016
+              120.634305200366,24.3566346150444,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
   </Document>
 </kml>
 
